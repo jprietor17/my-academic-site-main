@@ -1,0 +1,211 @@
+# yaml-language-server: $schema=https://hugoblox.com/schemas/author/v1.json
+
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Jhonathan Prieto Rojas, Ph.D.
+  given: Jhonathan
+  family: Prieto Rojas
+  alternate: ""
+  pronunciation: ""
+  pronouns: ""
+
+postnominals:
+  - PhD
+
+status:
+  icon: "☕"
+
+role: Assistant Professor of Electrical Engineering
+
+bio: |
+  I am an Assistant Professor of Electrical Engineering at King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia, where I conduct research at the intersection of micro- and nanofabrication, flexible electronics, and intelligent electronic systems. My work aims to translate advances in semiconductor manufacturing into mechanically compliant electronic technologies for wearable sensing, self-powered systems, and next-generation electronic devices. Current research spans flexible and stretchable electronics, thermoelectric energy harvesting, MEMS, advanced fabrication processes, and AI-assisted electronic design, with a strong emphasis on bridging fundamental research and real-world engineering applications.
+  My research has resulted in 36 peer-reviewed journal publications, 5 U.S. patents, more than 2,000 citations (Google Scholar), an h-index of 24, and multiple funded research projects through collaborations with leading academic and industrial partners.
+organizations:
+  - name: King Fahd University of Petroleum and Minerals
+    url: https://www.kfupm.edu.sa
+
+  - name: Interdisciplinary Research Center for Advanced Materials
+
+interests:
+  - Flexible & Stretchable Electronics
+  - Wearable Electronics
+  - Thermoelectric Energy Harvesting
+  - Micro- and Nanofabrication
+  - MEMS & Semiconductor Manufacturing
+  - Origami/Kirigami-inspired Electronics
+  - PCB Design Automation
+  - AI for Electronic Design
+
+education:
+  - degree: PhD in Electrical Engineering
+    institution: King Abdullah University of Science and Technology (KAUST)
+    start: Jan. 2011
+    end: Jun. 2014
+    summary: |
+      Dissertation: Towards Flexible Self-Powered Micro-scale Integrated Systems.
+
+  - degree: MSc in Electrical Engineering
+    institution: King Abdullah University of Science and Technology (KAUST)
+    start: Sep. 2009
+    end: Dec. 2010
+    summary: |
+      Thesis: Advanced Nanofabrication Process Development for Self-Powered SoC.
+
+  - degree: Exchange Student
+    institution: Technical University of Munich (TUM), Germany
+    start: Oct. 2007
+    end: Mar. 2008
+    summary: |
+      Focus on VLSI Design, Hardware Programming and Nanotechnology.
+
+  - degree: BSc in Electronics Engineering
+    institution: National University of Colombia
+    start: Jan. 2003
+    end: Mar. 2009
+
+experience:
+
+  - role: Assistant Professor
+    org: King Fahd University of Petroleum and Minerals (KFUPM)
+    start: 2015-09-01
+    summary: |
+      Conduct research in flexible electronics, wearable sensing systems, thermoelectric energy harvesting, and dust mitigation technologies. Teach undergraduate and graduate courses in electronics, semiconductor devices, microfabrication, and digital design. Supervise graduate and undergraduate research while contributing to curriculum development, ABET accreditation, faculty recruitment, and graduate admissions.
+
+  - role: Research Scholar
+    org: Interdisciplinary Research Center for Advanced Materials, KFUPM
+    start: 2021-05-01
+    summary: |
+      Principal Investigator of funded research projects on wearable thermoelectric generators and advanced dust mitigation technologies.
+
+  - role: Postdoctoral Fellow
+    org: King Abdullah University of Science and Technology (KAUST)
+    start: 2014-10-01
+    end: 2015-08-31
+    summary: |
+      Developed novel micro- and nanofabrication techniques for high-performance flexible electronic systems and thermoelectric energy harvesters.
+
+  - role: Visiting Researcher
+    org: University of Illinois at Urbana-Champaign
+    start: 2015-05-01
+    end: 2015-06-30
+    summary: |
+      Worked with Prof. John Rogers on transfer-printing technologies for flexible silicon electronics and advanced heterogeneous integration.
+
+  - role: Graduate Research Assistant
+    org: King Abdullah University of Science and Technology (KAUST)
+    start: 2009-09-01
+    end: 2014-06-30
+    summary: |
+      Conducted research on flexible electronics, nanofabrication, semiconductor devices, and energy harvesting technologies.
+
+profiles:
+  - network: Google Scholar
+    username: Mu8GnDgAAAAJ
+    url: https://scholar.google.com/citations?user=Mu8GnDgAAAAJ
+
+  - network: ORCID
+    username: 0000-0001-7848-1121
+    url: https://orcid.org/0000-0001-7848-1121
+
+links:
+  - icon: envelope
+    url: mailto:jprietor17@gmail.com
+    label: Email
+
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=Mu8GnDgAAAAJ
+
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7848-1121
+
+  - icon: brands/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=54983756500
+
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jhonathanp/
+
+  - icon: globe-alt
+    url: https://personal-website.jprietor17.workers.dev/
+    label: Personal Website
+
+skills:
+
+  - name: Micro/Nanofabrication
+    items:
+      - label: Photolithography
+        level: 5
+      - label: Reactive Ion Etching
+        level: 5
+      - label: PECVD
+        level: 5
+      - label: ALD
+        level: 4
+      - label: Sputtering
+        level: 5
+      - label: Thermal Evaporation
+        level: 5
+      - label: SEM Characterization
+        level: 5
+
+  - name: Simulation & Design
+    items:
+      - label: COMSOL Multiphysics
+        level: 5
+      - label: MATLAB
+        level: 5
+      - label: Coventor
+        level: 4
+      - label: PCB Design
+        level: 4
+
+  - name: Research
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Grant Proposal Writing
+        level: 5
+      - label: Research Supervision
+        level: 5
+      - label: Scientific Presentations
+        level: 5
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+
+  - name: Spanish
+    level: 5
+    label: Native
+
+  - name: German
+    level: 3
+    label: Intermediate
+
+  - name: Arabic
+    level: 1
+    label: Basic
+
+awards:
+
+  - title: Outstanding Alumni Award (International)
+    awarder: Electrical and Electronics Engineers Association, National University of Colombia
+    date: "2022"
+
+  - title: Excellence in Teaching Award
+    awarder: College of Applied Engineering, KFUPM
+    date: "2021"
+
+  - title: KAUST Academic Excellence Award
+    awarder: King Abdullah University of Science and Technology
+    date: "2011"
+
+  - title: DAAD Young Engineers Scholarship
+    awarder: German Academic Exchange Service (DAAD)
+    date: "2007"
+
+superuser: true
+highlight_name: false
