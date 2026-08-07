@@ -107,7 +107,7 @@ banner:
 - M. T. Ghoneim, **J. P. Rojas**, A. M. Hussain, and M. M. Hussain, *Additive advantage in characteristics of MIMCAPs on flexible silicon (100) fabric with release-first process*. *physica status solidi (RRL) – Rapid Research Letters*, **8**(2), 163–166 (2014).  
   🔗 [DOI](https://doi.org/10.1002/pssr.201308209)
 
-- **J. Prieto Rojas**, A. Arevalo, I. G. Foulds, and M. M. Hussain, *Design and characterization of ultra-stretchable monolithic silicon fabric*. *Applied Physics Letters*, **105**(15), 154101 (2014).  
+- **J. P. Rojas**, A. Arevalo, I. G. Foulds, and M. M. Hussain, *Design and characterization of ultra-stretchable monolithic silicon fabric*. *Applied Physics Letters*, **105**(15), 154101 (2014).  
   🔗 [DOI](https://doi.org/10.1063/1.4898128)
 
 - G. A. T. Sevilla, **J. P. Rojas**, H. M. Fahad, A. M. Hussain, R. Ghanem, C. E. Smith, and M. M. Hussain, *Flexible and transparent silicon-on-polymer based sub-20 nm non-planar 3D FinFET for brain-architecture inspired computation*. *Advanced Materials*, **26**(18), 2794–2799 (2014).  
@@ -119,7 +119,7 @@ banner:
 - J. M. Nassar, A. M. Hussain, **J. P. Rojas**, and M. M. Hussain, *Low-cost high-quality crystalline germanium based flexible devices*. *physica status solidi (RRL) – Rapid Research Letters*, **8**(9), 794–800 (2014).  
   🔗 [DOI](https://doi.org/10.1002/pssr.201409257)
 
-- **J. Prieto Rojas**, G. A. T. Sevilla, M. T. Ghoneim, S. B. Inayat, S. M. Ahmed, A. M. Hussain, and M. M. Hussain, *Transformational silicon electronics*. *ACS Nano*, **8**(2), 1468–1474 (2014).  
+- **J. P. Rojas**, G. A. T. Sevilla, M. T. Ghoneim, S. B. Inayat, S. M. Ahmed, A. M. Hussain, and M. M. Hussain, *Transformational silicon electronics*. *ACS Nano*, **8**(2), 1468–1474 (2014).  
   🔗 [DOI](https://doi.org/10.1021/nn405475k)
 
 - M. T. Ghoneim, **J. P. Rojas**, C. D. Young, G. Bersuker, and M. M. Hussain, *Electrical analysis of high dielectric constant insulator and metal gate metal oxide semiconductor capacitors on flexible bulk mono-crystalline silicon*. *IEEE Transactions on Reliability*, **64**(2), 579–585 (2014).  

@@ -19,12 +19,12 @@ main:
   - name: Experience
     url: experience/
     weight: 50
-  - name: Students
-    url: projects/
-    weight: 60
-  - name: CV
-    url: /uploads/resume.pdf
-    weight: 70
-  - name: Contact
-    url: /#contact
-    weight: 80
+  #- name: Students
+    #url: projects/
+    #weight: 60
+  #- name: CV
+    #url: /uploads/resume.pdf
+    #weight: 70
+  #- name: Contact
+    #url: /#contact
+    #weight: 80
