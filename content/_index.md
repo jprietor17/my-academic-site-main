@@ -68,7 +68,7 @@ sections:
         ### Design and Evaluation of LET-Based Soft Hinges for Stress Mitigation in Flexible Copper Interconnects
         **Flexible and Printed Electronics**, 2025  
         Introduces LET-based soft hinges to reduce stress concentration in flexible copper interconnects, improving the mechanical reliability of flexible printed electronics.  
-        **[Publisher](https://doi.org/10.1088/2058-8585/ae0653)**
+        **[IOP Science](https://doi.org/10.1088/2058-8585/ae0653)**
 
         ---
 
