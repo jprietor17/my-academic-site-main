@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/2026 JPR CV Full [ENG].pdf
       headings:
         about: About me
         education: Education
