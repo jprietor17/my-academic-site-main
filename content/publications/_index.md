@@ -63,13 +63,13 @@ banner:
 ### 2017
 
 - **J. P. Rojas**, D. Conchouso, A. Arevalo, D. Singh, I. G. Foulds, and M. M. Hussain, *Paper-based origami flexible and foldable thermoelectric nanogenerator*. *Nano Energy*, **31**, 296–301 (2017).  
-  🔗 [DOI](https://doi.org/10.1016/j.nanoen.2016.11.032)
+  🔗 [DOI](https://doi.org/10.1016/j.nanoen.2016.11.012)
 
 - M. U. Rehman and **J. P. Rojas**, *Optimization of compound serpentine–spiral structure for ultra-stretchable electronics*. *Extreme Mechanics Letters*, **15**, 44–50 (2017).  
   🔗 [DOI](https://doi.org/10.1016/j.eml.2017.05.004)
 
 - N. Qaiser, S. M. Khan, M. Nour, M. U. Rehman, **J. P. Rojas**, and M. M. Hussain, *Mechanical response of spiral interconnect arrays for highly stretchable electronics*. *Applied Physics Letters*, **111**(21), 214102 (2017).  
-  🔗 [DOI](https://doi.org/10.1063/1.4998782)
+  🔗 [DOI](https://doi.org/10.1063/1.5007111)
 
 - **J. P. Rojas**, D. Singh, S. B. Inayat, G. A. T. Sevilla, H. M. Fahad, and M. M. Hussain, *Micro and nano-engineering enabled new generation of thermoelectric generator devices and applications*. *ECS Journal of Solid State Science and Technology*, **6**(3), N3036–N3044 (2017).  
   🔗 [DOI](https://doi.org/10.1149/2.0081703jss)
@@ -154,6 +154,11 @@ banner:
 
 - J. E. Mink, **J. P. Rojas**, B. E. Logan, and M. M. Hussain, *Vertically grown multiwalled carbon nanotube anode and nickel silicide integrated high performance microsized (1.25 µL) microbial fuel cell*. *Nano Letters*, **12**(2), 791–795 (2012).  
   🔗 [DOI](https://doi.org/10.1021/nl203801h)
+
+### 2011
+
+- H. M. Fahad, C. E. Smith, **J. P. Rojas**, and M. M. Hussain. *Silicon Nanotube Field Effect Transistor with Core–Shell Gate Stacks for Enhanced High-Performance Operation and Area Scaling Benefits*. *Nano Letters*, **11**(10), 4393-4399 (2011).  
+  🔗 [DOI](https://doi.org/10.1021/nl202563s)
 
 ## Conferences & Proceedings
 
