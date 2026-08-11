@@ -95,17 +95,14 @@ banner:
 - N. Alfaraj, A. M. Hussain, G. A. T. Sevilla, M. T. Ghoneim, **J. P. Rojas**, A. B. Aljedaani, and M. M. Hussain, *Functional integrity of flexible n-channel metal–oxide–semiconductor field-effect transistors on a reversibly bistable platform*. *Applied Physics Letters*, **107**(17), 174101 (2015).  
   🔗 [DOI](https://doi.org/10.1063/1.4934355)
 
-- **J. Prieto Rojas** and M. M. Hussain, *The role of microfabrication and nanotechnology in the development of microbial fuel cells*. *Energy Technology*, **3**(10), 996–1006 (2015).  
+- **J. P. Rojas** and M. M. Hussain, *The role of microfabrication and nanotechnology in the development of microbial fuel cells*. *Energy Technology*, **3**(10), 996–1006 (2015).  
   🔗 [DOI](https://doi.org/10.1002/ente.201500126)
 
 - M. T. Ghoneim, H. M. Fahad, A. M. Hussain, **J. P. Rojas**, G. A. T. Sevilla, N. Alfaraj, E. B. Lizardo, and M. M. Hussain, *Enhanced cooling in mono-crystalline ultra-thin silicon by embedded micro-air channels*. *AIP Advances*, **5**(12), 127115 (2015).  
-  🔗 [DOI](https://doi.org/10.1063/1.4938025)
+  🔗 [DOI](https://doi.org/10.1063/1.4938101)
 
 
 ### 2014
-
-- M. T. Ghoneim, **J. P. Rojas**, A. M. Hussain, and M. M. Hussain, *Additive advantage in characteristics of MIMCAPs on flexible silicon (100) fabric with release-first process*. *physica status solidi (RRL) – Rapid Research Letters*, **8**(2), 163–166 (2014).  
-  🔗 [DOI](https://doi.org/10.1002/pssr.201308209)
 
 - **J. P. Rojas**, A. Arevalo, I. G. Foulds, and M. M. Hussain, *Design and characterization of ultra-stretchable monolithic silicon fabric*. *Applied Physics Letters*, **105**(15), 154101 (2014).  
   🔗 [DOI](https://doi.org/10.1063/1.4898128)
@@ -125,25 +122,28 @@ banner:
 - M. T. Ghoneim, **J. P. Rojas**, C. D. Young, G. Bersuker, and M. M. Hussain, *Electrical analysis of high dielectric constant insulator and metal gate metal oxide semiconductor capacitors on flexible bulk mono-crystalline silicon*. *IEEE Transactions on Reliability*, **64**(2), 579–585 (2014).  
   🔗 [DOI](https://doi.org/10.1109/TR.2014.2371054)
 
-- **J. Prieto Rojas**, W. Alqarni, and M. M. Hussain, *Rapid Evaluation of Power Degradation in Series Connection of Single Feeding Microsized Microbial Fuel Cells*. *Energy Technology*, **2**(8), 673–676 (2014).  
-  🔗 [DOI](https://doi.org/10.1002/ente.201402037)
-
-- J. Mink, **J. Rojas**, K. Rader, and M. M. Hussain, *Role of metal/silicon semiconductor contact engineering for enhanced output current in micro-sized microbial fuel cells*. *physica status solidi (a)*, **211**(3), 551–554 (2014).  
-  🔗 [DOI](https://doi.org/10.1002/pssa.201330386)
+- **J. P. Rojas**, W. Alqarni, and M. M. Hussain, *Rapid Evaluation of Power Degradation in Series Connection of Single Feeding Microsized Microbial Fuel Cells*. *Energy Technology*, **2**(8), 673–676 (2014).  
+  🔗 [DOI](https://doi.org/10.1002/ente.201402035)
 
 
 ### 2013
 
-- **J. Prieto Rojas**, M. T. Ghoneim, C. D. Young, and M. M. Hussain, *Flexible High-κ/Metal Gate Metal/Insulator/Metal Capacitors on Silicon (100) Fabric*. *IEEE Transactions on Electron Devices*, **60**(10), 3305–3309 (2013).  
-  🔗 [DOI](https://doi.org/10.1109/TED.2013.2277800)
+- J. Mink, **J. P. Rojas**, K. Rader, and M. M. Hussain, *Role of metal/silicon semiconductor contact engineering for enhanced output current in micro-sized microbial fuel cells*. *physica status solidi (a)*, **211**(3), 551–554 (2013).  
+  🔗 [DOI](https://doi.org/10.1002/pssa.201330233)
+
+- M. T. Ghoneim, **J. P. Rojas**, A. M. Hussain, and M. M. Hussain, *Additive advantage in characteristics of MIMCAPs on flexible silicon (100) fabric with release-first process*. *physica status solidi (RRL) – Rapid Research Letters*, **8**(2), 163–166 (2013).  
+  🔗 [DOI](https://doi.org/10.1002/pssr.201308209)
+
+- **J. P. Rojas**, M. T. Ghoneim, C. D. Young, and M. M. Hussain, *Flexible High-κ/Metal Gate Metal/Insulator/Metal Capacitors on Silicon (100) Fabric*. *IEEE Transactions on Electron Devices*, **60**(10), 3305–3309 (2013).  
+  🔗 [DOI](https://doi.org/10.1109/TED.2013.2278186)
 
 - **J. P. Rojas**, G. T. Sevilla, and M. M. Hussain, *Structural and electrical characteristics of high-k/metal gate metal oxide semiconductor capacitors fabricated on flexible, semi-transparent silicon (100) fabric*. *Applied Physics Letters*, **102**(6), 064102 (2013).  
   🔗 [DOI](https://doi.org/10.1063/1.4791693)
 
 - **J. P. Rojas** and M. M. Hussain, *Flexible semi-transparent silicon (100) fabric with high-k/metal gate devices*. *physica status solidi (RRL) – Rapid Research Letters*, **7**(3), 187–191 (2013).  
-  🔗 [DOI](https://doi.org/10.1002/pssr.201206509)
+  🔗 [DOI](https://doi.org/10.1002/pssr.201206490)
 
-- G. A. T. Sevilla, S. B. Inayat, **J. Prieto Rojas**, A. M. Hussain, and M. M. Hussain, *Flexible and semi-transparent thermoelectric energy harvesters from low cost bulk silicon (100)*. *Small*, **9**(23), 3916–3921 (2013).  
+- G. A. T. Sevilla, S. B. Inayat, **J. P. Rojas**, A. M. Hussain, and M. M. Hussain, *Flexible and semi-transparent thermoelectric energy harvesters from low cost bulk silicon (100)*. *Small*, **9**(23), 3916–3921 (2013).  
   🔗 [DOI](https://doi.org/10.1002/smll.201301025)
 
 - **J. P. Rojas**, G. A. T. Sevilla, and M. M. Hussain, *Can we build a truly high performance computer which is flexible and transparent?*. *Scientific Reports*, **3**(1), 2609 (2013).  
