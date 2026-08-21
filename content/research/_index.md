@@ -21,6 +21,7 @@ sections:
     content:
       title: Research Areas
       text: |-
+        
         <div class="not-prose my-12 overflow-hidden rounded-2xl border border-slate-700 bg-slate-900 shadow-xl">
 
         <img
@@ -45,7 +46,7 @@ sections:
         </span>
 
         <span class="rounded-full bg-blue-900/50 text-blue-300 px-4 py-2 text-sm font-semibold border border-blue-700">
-        Microfabrication
+        Wearables
         </span>
 
         </div>
@@ -91,19 +92,29 @@ sections:
 
         <ul class="list-disc pl-6 space-y-2 text-slate-300 mb-8">
 
-        <li>Origami and kirigami-inspired electronic architectures</li>
+        <li> 
+        <a href="https://doi.org/10.1007/s13369-021-06384-y" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Origami and kirigami-inspired electronic architectures
+        </a> 
+        </li> 
 
-        <li>Mechanics of flexible and stretchable interconnects</li>
+        <li>
+        <a href="https://doi.org/10.1088/2058-8585/ae0653" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Mechanics of flexible and stretchable interconnects
+        </a> 
+        </li> 
+        
+        <li>
+        <a href="https://doi.org/10.1016/j.eml.2020.101052" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Silicon-based ultra-stretchable electronic platforms
+        </a> 
+        </li>
 
-        <li>Silicon-based ultra-stretchable electronic platforms</li>
-
-        <li>LET-based soft hinges for stress mitigation</li>
-
-        <li>Flexible hybrid electronic systems</li>
-
-        <li>Mechanically reliable copper interconnects</li>
-
-        <li>Micro- and nanofabrication for flexible devices</li>
+        <li>
+        <a href="https://doi.org/10.1002/adma.202406424" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Flexible hybrid electronic systems
+        </a>
+        </li>
 
         </ul>
 
@@ -120,48 +131,25 @@ sections:
         Future electronic systems must operate reliably while conforming to
         curved, deformable, and dynamic surfaces. Mechanically engineered
         electronic architectures enable wearable healthcare, soft robotics,
-        human-machine interfaces, and biomedical devices by overcoming the
+        smart textiles, human-machine interfaces, and biomedical devices by overcoming the
         mechanical limitations of conventional rigid electronics through
         innovative structural design rather than material replacement alone.
 
         </p>
 
-        <!-- Applications: -->
-
-        <h3 class="text-xl font-semibold text-white mt-10 mb-4">
-
-        Applications:
-
-        </h3>
-
-        <div class="grid grid-cols-2 gap-x-8 gap-y-2 text-slate-300">
-
-        <div>• Wearable Healthcare</div>
-
-        <div>• Electronic Skin</div>
-
-        <div>• Human–Machine Interfaces</div>
-
-        <div>• Soft Robotics</div>
-
-        <div>• Biomedical Devices</div>
-
-        <div>• Implantable Electronics</div>
-
-        <div>• Smart Textiles</div>
-
         </div>
 
         </div>
 
-        </div>
-
-        <div class="not-prose my-12 overflow-hidden rounded-2xl border border-slate-700 bg-slate-900">
-
+        
+        
+        <div class="not-prose my-12 overflow-hidden rounded-2xl border border-slate-700 bg-slate-900 shadow-xl">
         <img
         src="/images/research/teg.jpg"
         alt="Thermoelectric Energy Harvesting"
         class="h-[420px] w-full object-cover">
+        
+        <div class="h-1 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
 
         <div class="p-8">
 
@@ -169,15 +157,16 @@ sections:
 
         <div class="flex flex-wrap gap-2 mb-6">
 
-        <span class="rounded-full bg-blue-500/20 text-blue-300 px-4 py-2 text-sm font-semibold">
+        <span class="rounded-full bg-emerald-900/50 text-emerald-300 px-4 py-2 text-sm font-semibold border border-emerald-700">
         Energy Harvesting
         </span>
 
-        <span class="rounded-full bg-cyan-600/20 px-3 py-1 text-sm font-medium text-cyan-300">
+        <span class="rounded-full bg-cyan-900/50 text-cyan-300 px-3 py-2 text-sm font-semibold border
+        border-cyan-700">
         Thermoelectrics
         </span>
 
-        <span class="rounded-full bg-indigo-600/20 px-3 py-1 text-sm font-medium text-indigo-300">
+        <span class="rounded-full bg-blue-900/50 text-blue-300 px-4 py-2 text-sm font-semibold border border-blue-700">
         Wearable Electronics
         </span>
 
@@ -195,40 +184,51 @@ sections:
 
         <p class="text-lg leading-8 text-slate-300 dark:text-slate-300 mb-8">
 
-        Our research focuses on the development of flexible and stretchable thermoelectric generators capable of converting waste heat into electrical energy for self-powered electronic systems. By combining advanced materials, innovative device architectures, and scalable microfabrication technologies, we aim to enable wearable electronics that operate autonomously without relying on conventional batteries.
+        Our research focuses on the development of flexible and stretchable thermoelectric generators capable of converting waste heat into electrical energy for self-powered electronic systems. By combining advanced materials, innovative device architectures, and scalable micro-machining/fabrication technologies, we aim to enable wearable electronics that operate autonomously without relying on conventional batteries.
 
         </p>
 
         <!-- Research Focus -->
 
-        <h3 class="text-xl font-semibold text-slate-300 mt-10 mb-4">
+        <h3 class="text-xl font-semibold text-slate-300 mt-5 mb-4">
 
         Research Focus
 
         </h3>
 
-        <p class="text-slate-300 mb-4">
+        <p class="text-white mb-4">
 
-        Current research investigates novel thermoelectric materials, flexible device architectures, and advanced fabrication techniques to improve energy conversion efficiency while maintaining excellent mechanical flexibility and long-term reliability.
+        Current research investigates novel device architectures and advanced fabrication techniques to improve energy conversion efficiency while maintaining excellent mechanical flexibility and long-term reliability. Alternative energy harvesting systems and their integration into monitoring systems has also been investigated.
 
         </p>
 
-        <ul class="list-disc pl-6 space-y-2 text-slate-300 dark:text-slate-300 mb-8">
+        <ul class="list-disc pl-6 space-y-2 text-slate-300 mb-8">
 
-        <li>Flexible and stretchable thermoelectric generators</li>
-
-        <li>Wearable energy harvesting systems</li>
-
-        <li>High-performance thermoelectric materials</li>
-
-        <li>Flexible thermal interface engineering</li>
-
-        <li>Microfabrication of thermoelectric devices</li>
-
-        <li>Self-powered wearable sensing platforms</li>
-
-        <li>Thermal management and system integration</li>
-
+        <li>
+        <a href="https://doi.org/10.1016/j.nanoen.2016.11.012" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Origami paper-based thermoelectric generators
+        </a>
+        </li>
+        <li>
+        <a href="https://doi.org/10.1016/j.nanoen.2016.10.054" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Stretchable thermoelectric generators
+        </a>
+        </li>
+        <li>
+        <a href="https://doi.org/10.1039/d6ra06939h" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Thermal interface materials
+        </a>
+        </li>
+        <li>
+        <a href="https://doi.org/10.1088/1361-665X/ad791b" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Wearable energy harvesting systems
+        </a>
+        </li>
+        <li>
+        <a href="https://doi.org/10.1109/JSYST.2025.3532698" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Self-powered sensing platforms
+        </a>
+        </li>
         </ul>
 
         <!-- Why It Matters -->
@@ -241,41 +241,14 @@ sections:
 
         <p class="text-slate-300 mb-8">
 
-        As wearable electronics become increasingly sophisticated, battery life remains one of their primary limitations. Flexible thermoelectric generators offer a sustainable solution by continuously harvesting body heat or ambient thermal gradients, enabling autonomous sensing systems with reduced maintenance and improved user experience.
+        As wearable electronics become increasingly sophisticated, battery life remains one of their primary limitations. Flexible thermoelectric generators offer a sustainable solution by continuously harvesting body heat or ambient thermal gradients, enabling autonomous sensing systems with reduced maintenance and improved user experience. Enabled application include Wearable Biomedical & Environmental Monitoring, Self-Powered Internet of Things (IoT), and Battery-Free Electronics
 
         </p>
 
-        <!-- Future Applications: -->
-
-        <h3 class="text-xl font-semibold text-slate-300 mt-10 mb-4">
-
-        Future Applications
-
-        </h3>
-
-        <div class="grid grid-cols-2 gap-x-8 gap-y-2 text-slate-300">
-
-        <div>• Wearable Healthcare</div>
-
-        <div>• Self-Powered Sensors</div>
-
-        <div>• Internet of Things (IoT)</div>
-
-        <div>• Smart Textiles</div>
-
-        <div>• Biomedical Monitoring</div>
-
-        <div>• Human Activity Monitoring</div>
-
-        <div>• Remote Environmental Sensing</div>
-
-        <div>• Battery-Free Electronics</div>
-
         </div>
 
         </div>
 
-        </div>
 
         <div class="not-prose my-12 overflow-hidden rounded-2xl border border-slate-700 bg-slate-900 shadow-xl">
 
@@ -284,21 +257,24 @@ sections:
         alt="Electrodynamic Dust Mitigation"
         class="h-[420px] w-full object-cover">
 
+        <div class="h-1 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
+
         <div class="p-8">
 
         <!-- Tags -->
 
         <div class="flex flex-wrap gap-2 mb-6">
 
-        <span class="rounded-full bg-blue-500/20 text-blue-300 px-4 py-2 text-sm font-semibold">
+        <span class="rounded-full bg-emerald-900/50 text-emerald-300 px-3 py-2 text-sm font-semibold border border-emerald-700">
         Electrodynamic Screens
         </span>
 
-        <span class="rounded-full bg-cyan-600/20 px-3 py-1 text-sm font-medium text-cyan-300">
+        <span class="rounded-full bg-cyan-900/50 text-cyan-300 px-3 py-2 text-sm font-semibold border
+        border-cyan-700">
         Photovoltaics
         </span>
 
-        <span class="rounded-full bg-indigo-600/20 px-3 py-1 text-sm font-medium text-indigo-300">
+        <span class="rounded-full bg-blue-900/50 text-blue-300 px-3 py-2 text-sm font-semibold border border-blue-700">
         Surface Engineering
         </span>
 
@@ -345,15 +321,15 @@ sections:
 
         <ul class="list-disc pl-6 space-y-2 text-slate-300 mb-8">
 
-        <li>Electrodynamic Screen (EDS) technologies</li>
-
-        <li>Fractal electrode architectures</li>
-
-        <li>Hybrid passive-active dust mitigation</li>
-
+        <li>
+        <a href="https://doi.org/10.1007/s13369-025-10028-w" class="text-cyan-400 hover:text-cyan-300 font-semibold">
+        Fractal electrode architectures
+        </a>
+        </li>
+        
         <li>Optimization of electric field distributions</li>
 
-        <li>Particle dynamics and electrostatic transport</li>
+        <li>Hybrid passive-active dust mitigation</li>
 
         <li>Low-power driving electronics</li>
 
@@ -380,43 +356,18 @@ sections:
 
         </p>
 
-        <!-- Future Applications -->
-
-        <h3 class="text-xl font-semibold text-white mt-10 mb-4">
-
-        Future Applications:
-
-        </h3>
-
-        <div class="grid grid-cols-2 gap-x-8 gap-y-2 text-slate-300">
-
-        <div>• Utility-Scale Solar Farms</div>
-
-        <div>• Desert Photovoltaic Systems</div>
-
-        <div>• Autonomous Cleaning Systems</div>
-
-        <div>• Space Solar Panels</div>
-
-        <div>• Smart Building Facades</div>
-
-        <div>• Optical Sensor Protection</div>
-
-        <div>• Harsh Environment Electronics</div>
-
-        <div>• Sustainable Renewable Energy</div>
-
         </div>
 
         </div>
 
-        </div>
 
         <div class="not-prose my-12 overflow-hidden rounded-2xl border border-slate-700 bg-slate-900">
         <img
-            src="/images/research/ai-pcb.jpg"
-            alt="AI PCB Autorouting"
-            class="h-[320px] w-full object-cover">
+        src="/images/research/ai-pcb.jpg"
+        alt="AI PCB Autorouting"
+        class="h-[320px] w-full object-cover">
+        
+        <div class="h-1 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
 
         <div class="p-8">
 
@@ -424,16 +375,17 @@ sections:
 
         <div class="flex flex-wrap gap-2 mb-6">
 
-        <span class="rounded-full bg-blue-500/20 text-blue-300 px-4 py-2 text-sm font-semibold">
-            Artificial Intelligence
+        <span class="rounded-full bg-emerald-900/50 text-emerald-300 px-4 py-2 text-sm font-semibold border border-emerald-700">
+        Artificial Intelligence
         </span>
 
-        <span class="rounded-full bg-cyan-600/20 px-3 py-1 text-sm font-medium text-cyan-300">
-            PCB Design
+        <span class="rounded-full bg-cyan-900/50 text-cyan-300 px-3 py-2 text-sm font-semibold border
+        border-cyan-700">
+        PCB Design
         </span>
 
-        <span class="rounded-full bg-indigo-600/20 px-3 py-1 text-sm font-medium text-indigo-300">
-            Electronic Design Automation
+        <span class="rounded-full bg-blue-900/50 text-blue-300 px-4 py-2 text-sm font-semibold border border-blue-700">
+        Novel Algorithms
         </span>
 
         </div>
@@ -465,27 +417,16 @@ sections:
         <p class="text-slate-300 mb-4">
 
         Current research investigates intelligent routing strategies that
-        combine optimization algorithms, graph-based representations,
-        and machine learning techniques to support PCB designers
-        throughout the routing process.
+        combine novel algorithms, graph-based representations,
+        and machine learning techniques to enhanced the routing process. 
 
         </p>
 
         <ul class="list-disc pl-6 space-y-2 text-slate-300 mb-8">
 
-        <li>AI-assisted multilayer PCB routing</li>
+        <li>AI-assisted routing optimization</li>
 
-        <li>Constraint-aware routing optimization</li>
-
-        <li>Graph Neural Networks for PCB representation</li>
-
-        <li>Manufacturability-aware routing algorithms</li>
-
-        <li>Multi-objective optimization</li>
-
-        <li>Design Rule Check (DRC) automation</li>
-
-        <li>Large Language Models for Electronic Design Automation</li>
+        <li>Bio-inspired algorithms for multilayer PCB routing</li>
 
         </ul>
 
@@ -507,40 +448,12 @@ sections:
 
         </p>
 
-        <!-- Future Applications: -->
-
-        <h3 class="text-xl font-semibold text-slate-300 dark:text-slate-900 mt-10 mb-4">
-
-        Future Applications:
-
-        </h3>
-
-        <div class="grid grid-cols-2 gap-x-8 gap-y-2 text-slate-300">
-
-        <div>• High-Speed PCB Design</div>
-
-        <div>• Industrial Automation</div>
-
-        <div>• Aerospace & Defense</div>
-
-        <div>• Automotive Electronics</div>
-
-        <div>• Embedded Systems</div>
-
-        <div>• IoT Devices</div>
-
-        <div>• Commercial EDA Software</div>
-
-        <div>• RF & Microwave Electronics</div>
-
-        </div>
-
         </div>
 
         </div>
 
     design:
-      columns: "2"
+      columns: "1"
 
   - block: markdown
     content:

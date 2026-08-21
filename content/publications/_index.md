@@ -20,6 +20,11 @@ banner:
 
 ## Journal Articles
 
+### 2026
+
+- S. S. Ali, S. Firdous; S. Dieng, **J. P. Rojas**, T. A. Saleh, *MXene-assisted Bi2Te3 pellet-based thermoelectric generator*. *RSC Advances* (2026).  
+  🔗 [DOI](https://doi.org/10.1039/d6ra06939h)
+
 ### 2025
 
 - **J. P. Rojas**, R. Almazyad, A. Al Hayyah, A. Alruhaiman, M. Almusharraf, S. Al-Dharrab, and H. Attia, *Self-powered end-to-end wireless sensor network for geophysical explorations*. *IEEE Systems Journal*, **19**(1), 107–118 (2025).  
