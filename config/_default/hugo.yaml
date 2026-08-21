@@ -56,7 +56,10 @@ taxonomies:
   tag: tags
   publication_type: publication_types
 markup:
-  _merge: deep
+  #_merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     lineNos: false
 security:

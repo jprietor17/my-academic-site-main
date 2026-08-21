@@ -1,0 +1,28 @@
+.research-card{
+    display:flex;
+    gap:2rem;
+    align-items:center;
+    margin:3rem 0;
+    padding:2rem;
+    border-radius:18px;
+    border:1px solid rgba(255,255,255,.08);
+    background:#162032;
+}
+
+.research-image{
+    width:340px;
+    border-radius:14px;
+    flex-shrink:0;
+}
+
+.research-content{
+    flex:1;
+}
+
+.research-content h2{
+    margin-top:0;
+}
+
+.research-content ul{
+    margin-top:1rem;
+}
