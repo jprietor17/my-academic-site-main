@@ -29,7 +29,7 @@ sections:
         alt="Flexible and Stretchable Electronics"
         class="h-[420px] w-full object-cover">
 
-        <div class="h-1 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
+        <div class="h-2 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
 
         <div class="p-8">
 
@@ -61,7 +61,7 @@ sections:
 
         <!-- Introduction -->
 
-        <p class="text-lg leading-8 text-slate-300 mb-8">
+        <p class="text-lg leading-8 text-white mb-8">
 
         Our research develops mechanically compliant electronic systems capable of
         maintaining reliable electrical performance under extreme bending,
@@ -149,7 +149,7 @@ sections:
         alt="Thermoelectric Energy Harvesting"
         class="h-[420px] w-full object-cover">
         
-        <div class="h-1 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
+        <div class="h-2 bg-gradient-to-r from-yellow-400 to-orange-500"></div>
 
         <div class="p-8">
 
@@ -163,7 +163,7 @@ sections:
 
         <span class="rounded-full bg-cyan-900/50 text-cyan-300 px-3 py-2 text-sm font-semibold border
         border-cyan-700">
-        Thermoelectrics
+        Thermoelectric
         </span>
 
         <span class="rounded-full bg-blue-900/50 text-blue-300 px-4 py-2 text-sm font-semibold border border-blue-700">
@@ -257,7 +257,7 @@ sections:
         alt="Electrodynamic Dust Mitigation"
         class="h-[420px] w-full object-cover">
 
-        <div class="h-1 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
+        <div class="h-2 bg-gradient-to-r from-secondary-500 to-primary-500"></div>
 
         <div class="p-8">
 
@@ -367,7 +367,7 @@ sections:
         alt="AI PCB Autorouting"
         class="h-[320px] w-full object-cover">
         
-        <div class="h-1 bg-gradient-to-r from-emerald-500 to-cyan-400"></div>
+        <div class="h-2 bg-gradient-to-r from-primary-400 to-primary-800"></div>
 
         <div class="p-8">
 
