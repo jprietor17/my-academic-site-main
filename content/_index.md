@@ -29,11 +29,11 @@ sections:
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: sm # Options: xs, sm, md, lg (default), xl
+        size: xs # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
-        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   
   - block: markdown
@@ -90,13 +90,6 @@ sections:
         **Nano Energy**, 2017  
         Demonstrates an origami-inspired paper-based thermoelectric generator capable of lightweight, foldable energy harvesting for wearable applications.  
         **[ScienceDirect](https://doi.org/10.1016/j.nanoen.2016.11.032)**
-
-        ---
-
-        ### Stretchable Helical Architecture Inorganic–Organic Hetero Thermoelectric Generator
-        **Nano Energy**, 2016  
-        Presents a stretchable thermoelectric generator based on helical architectures for wearable and self-powered electronic systems.  
-        **[ScienceDirect](https://doi.org/10.1016/j.nanoen.2016.10.054)**
 
         ---
 
