@@ -65,75 +65,106 @@ sections:
       subtitle: Representative publications highlighting my research in flexible electronics, wearable sensing, thermoelectric energy harvesting, and advanced semiconductor manufacturing.
       text: |-
 
-        ### Design and Evaluation of LET-Based Soft Hinges for Stress Mitigation in Flexible Copper Interconnects
-        **Flexible and Printed Electronics**, 2025  
-        Introduces LET-based soft hinges to reduce stress concentration in flexible copper interconnects, improving the mechanical reliability of flexible printed electronics.  
-        **[IOP Science](https://doi.org/10.1088/2058-8585/ae0653)**
+        #### Design and Evaluation of LET-Based Soft Hinges for Stress Mitigation in Flexible Copper Interconnects
+        ***Flexible and Printed Electronics***, 2025  
+        Introduces LET-based soft hinges to reduce stress concentration in flexible copper interconnects, improving the mechanical reliability of flexible printed electronics. **[IOP Science](https://doi.org/10.1088/2058-8585/ae0653)**
 
         ---
-
-        ### Self-Powered End-to-End Wireless Sensor Network for Geophysical Explorations
-        **IEEE Systems Journal**, 2025  
-        Development of a self-powered wireless sensing platform integrating energy harvesting and low-power electronics for geophysical exploration.  
-        **[IEEE Xplore](https://doi.org/10.1109/JSYST.2025.3532698)**
+        #### Self-Powered End-to-End Wireless Sensor Network for Geophysical Explorations
+        ***IEEE Systems Journal***, 2025  
+        Development of a self-powered wireless sensing platform integrating energy harvesting and low-power electronics for geophysical exploration. **[IEEE Xplore](https://doi.org/10.1109/JSYST.2025.3532698)**
 
         ---
-
-        ### Beyond Flexible: Unveiling the Next Era of Flexible Electronic Systems
+        #### Beyond Flexible: Unveiling the Next Era of Flexible Electronic Systems
         **Advanced Materials**, 2024  
-        Perspective article discussing the evolution of flexible electronic technologies toward intelligent and multifunctional electronic systems.  
-        **[Wiley](https://doi.org/10.1002/adma.202406424)**
+        Perspective article discussing the evolution of flexible electronic technologies toward intelligent and multifunctional electronic systems. **[Wiley](https://doi.org/10.1002/adma.202406424)**
 
         ---
-
-        ### Paper-Based Origami Flexible and Foldable Thermoelectric Nanogenerator
-        **Nano Energy**, 2017  
-        Demonstrates an origami-inspired paper-based thermoelectric generator capable of lightweight, foldable energy harvesting for wearable applications.  
-        **[ScienceDirect](https://doi.org/10.1016/j.nanoen.2016.11.032)**
-
-        ---
-
-        ### Transformational Silicon Electronics
-        **ACS Nano**, 2014  
-        Introduces novel concepts for mechanically flexible silicon electronics using advanced semiconductor manufacturing technologies.  
-        **[ACS Publications](https://doi.org/10.1021/nn405475k)**
-
+        #### Paper-Based Origami Flexible and Foldable Thermoelectric Nanogenerator
+        ***Nano Energy***, 2017  
+        Demonstrates an origami-inspired paper-based thermoelectric generator capable of lightweight, foldable energy harvesting for wearable applications. **[ScienceDirect](https://doi.org/10.1016/j.nanoen.2016.11.032)**
+        
         <br>
 
         **→ [View complete publication list](/publications/)**
 
     design:
       columns: "2"
+      
+  - block: markdown
+    id: news
+    content:
+      title: Recent News
+      subtitle: Latest research updates and publications
+      text: |-
+        <div class="not-prose rounded-2xl border border-slate-700 bg-slate-900 overflow-hidden shadow-xl">
+        <img
+          src="/images/news/mxene_teg.jpg"
+          alt="MXene-assisted Bi2Te3 thermoelectric generator"
+          class="h-[280px] w-full object-cover">
+        
+        <div class="p-8">
 
+        <div class="flex flex-wrap gap-2 mb-5">
+          <span class="rounded-full bg-emerald-900/50 text-emerald-300 px-3 py-1 text-sm font-semibold border border-emerald-700">
+            New Publication
+          </span>
+
+          <span class="rounded-full bg-cyan-900/50 text-cyan-300 px-3 py-1 text-sm font-semibold border border-cyan-700">
+            Thermoelectrics
+          </span>
+
+          <span class="rounded-full bg-blue-900/50 text-blue-300 px-3 py-1 text-sm font-semibold border border-blue-700">
+            MXene
+          </span>
+        </div>
+
+        <p class="text-sm text-slate-400 mb-3">
+          August 2026 · RSC Advances
+        </p>
+
+        <h3 class="text-2xl font-bold text-white mb-4">
+          MXene-assisted Bi₂Te₃ pellet-based thermoelectric generator
+        </h3>
+
+        <p class="text-slate-300 leading-7 mb-5">
+          Our latest work demonstrates how a Ti₃C₂Tₓ MXene interfacial
+          layer can enhance the performance of a Bi₂Te₃ pellet-based
+          thermoelectric generator, achieving a <strong>13.8% increase
+          in open-circuit voltage</strong> and a <strong>32% improvement
+          in maximum output power</strong>. The results highlight a
+          practical approach toward improved thermoelectric energy
+          harvesting for wearable electronics and autonomous sensors.
+        </p>
+
+        <p class="text-slate-400 mb-6">
+          S. S. Ali, S. Firdous, S. Dieng, <strong>J. P. Rojas</strong>,
+          and T. A. Saleh
+        </p>
+
+        <div class="flex flex-wrap gap-3">
+
+          <a href="https://doi.org/10.1039/d6ra06939h"
+            target="_blank"
+            rel="noopener"
+            class="inline-flex items-center rounded-lg bg-primary-600 px-4 py-2 text-sm font-semibold text-white hover:bg-primary-500">
+            Read Paper →
+          </a>
+
+          <a href="/publications/"
+            class="inline-flex items-center rounded-lg border border-slate-600 px-4 py-2 text-sm font-semibold text-slate-300 hover:border-slate-400">
+            All Publications
+          </a>
+
+          </div>
+
+        </div>
+
+        </div>
+
+    design:
+      columns: "1"
   
-  #- block: collection
-    #id: news
-    #content:
-      #title: Recent News
-      #subtitle: ''
-      #text: ''
-      # Page type to display. E.g. post, talk, publication...
-      #page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      #count: 10
-      # Filter on criteria
-      #filters:
-        #author: ''
-        #category: ''
-        #tag: ''
-        #exclude_featured: false
-        #exclude_future: false
-        #exclude_past: false
-        #publication_type: ''
-      # Choose how many pages you would like to offset by
-      #offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      #order: desc
-    #design:
-      # Choose a layout view
-      #view: card
-      # Reduce spacing
-      #spacing:
-        #padding: [0, 0, 0, 0]
+  
  
 ---
