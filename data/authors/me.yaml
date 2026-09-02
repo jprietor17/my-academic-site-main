@@ -22,7 +22,7 @@ role: Assistant Professor of Electrical Engineering, KFUPM
 
 bio: |
   I am an Assistant Professor of Electrical Engineering at King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia, where I conduct research at the intersection of micro- and nanofabrication, flexible electronics, and intelligent electronic systems. My work aims to translate advances in semiconductor manufacturing into mechanically compliant electronic technologies for wearable sensing, self-powered systems, and next-generation electronic devices. Current research spans flexible and stretchable electronics, thermoelectric energy harvesting, MEMS, advanced fabrication processes, and AI-assisted electronic design, with a strong emphasis on bridging fundamental research and real-world engineering applications.
-  My research has resulted in 37 peer-reviewed journal publications, 5 U.S. patents, more than 2,000 citations (Google Scholar), an h-index of 24, and multiple funded research projects through collaborations with leading academic and industrial partners.
+  My research has resulted in 37 peer-reviewed journal publications, 4 granted U.S. patents, more than 2,000 citations (Google Scholar), an h-index of 24, and multiple funded research projects through collaborations with leading academic partners.
 organizations:
   - name: King Fahd University of Petroleum and Minerals
     url: https://www.kfupm.edu.sa
@@ -194,7 +194,6 @@ awards:
   - title: Outstanding Alumni Award (International)
     awarder: Electrical and Electronics Engineers Association, National University of Colombia
     date: "2022"
-    image: awards/test.jpg
 
   - title: Excellence in Teaching Award
     awarder: College of Applied Engineering, KFUPM
