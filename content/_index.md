@@ -162,11 +162,13 @@ sections:
 
         </div>
 
+        ---
+        
         <div class="not-prose rounded-2xl border border-slate-700 bg-slate-900 overflow-hidden shadow-xl">
         <img
           src="/images/news/advmat.jpg"
           alt="Adv. Mat top viewed certificate"
-          class="h-[280px] w-full object-cover">
+          class="h-[380px] w-full object-cover">
         
         <div class="p-8">
 
@@ -176,7 +178,7 @@ sections:
           </span>
 
           <span class="rounded-full bg-cyan-900/50 text-cyan-300 px-3 py-1 text-sm font-semibold border border-cyan-700">
-            Benyond Flex. Elect.
+            Beyond Flex. Elect.
           </span>
 
           <span class="rounded-full bg-blue-900/50 text-blue-300 px-3 py-1 text-sm font-semibold border border-blue-700">
