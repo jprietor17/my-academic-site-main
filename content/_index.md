@@ -162,6 +162,56 @@ sections:
 
         </div>
 
+        <div class="not-prose rounded-2xl border border-slate-700 bg-slate-900 overflow-hidden shadow-xl">
+        <img
+          src="/images/news/advmat.jpg"
+          alt="Adv. Mat top viewed certificate"
+          class="h-[280px] w-full object-cover">
+        
+        <div class="p-8">
+
+        <div class="flex flex-wrap gap-2 mb-5">
+          <span class="rounded-full bg-emerald-900/50 text-emerald-300 px-3 py-1 text-sm font-semibold border border-emerald-700">
+            Recent Award
+          </span>
+
+          <span class="rounded-full bg-cyan-900/50 text-cyan-300 px-3 py-1 text-sm font-semibold border border-cyan-700">
+            Benyond Flex. Elect.
+          </span>
+
+          <span class="rounded-full bg-blue-900/50 text-blue-300 px-3 py-1 text-sm font-semibold border border-blue-700">
+            Adv. Mat.
+          </span>
+        </div>
+
+        <p class="text-sm text-slate-400 mb-3">
+          May 2026 · Advanced Materials
+        </p>
+
+        <h3 class="text-2xl font-bold text-white mb-4">
+          Honored to see our article, “Beyond Flexible: Unveiling the Next Era of Flexible Electronic Systems,” recognized as a Top Viewed Article 2025 in Advanced Materials.            
+        </h3>
+
+        <p class="text-slate-300 leading-7 mb-5">
+          Advanced Materials continues to be one of the leading journals in materials science and engineering, bringing together impactful advances across electronics, energy, nanotechnology, and biomedical systems. It is encouraging to see growing interest in the future of flexible and next-generation electronic systems.
+          Grateful to all who contributed to this work and to the broader research community for the engagement around this topic.
+        </p>
+
+        <div class="flex flex-wrap gap-3">
+
+          <a href="https://doi.org/10.1002/adma.202406424"
+            target="_blank"
+            rel="noopener"
+            class="inline-flex items-center rounded-lg bg-primary-600 px-4 py-2 text-sm font-semibold text-white hover:bg-primary-500">
+            Read Paper →
+          </a>
+
+          </div>
+
+        </div>
+
+        </div>
+
     design:
       columns: "1"
   
