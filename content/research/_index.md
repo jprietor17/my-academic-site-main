@@ -208,6 +208,7 @@ sections:
         <a href="https://doi.org/10.1016/j.nanoen.2016.11.012" class="text-cyan-400 hover:text-cyan-300 font-semibold">
         Origami paper-based thermoelectric generators
         </a>
+        (Additional novel architectures under development)
         </li>
         <li>
         <a href="https://doi.org/10.1016/j.nanoen.2016.10.054" class="text-cyan-400 hover:text-cyan-300 font-semibold">
@@ -226,8 +227,9 @@ sections:
         </li>
         <li>
         <a href="https://doi.org/10.1109/JSYST.2025.3532698" class="text-cyan-400 hover:text-cyan-300 font-semibold">
-        Self-powered sensing platforms
+        Self-powered sensing platforms 
         </a>
+        (Additional work under development)
         </li>
         </ul>
 
@@ -323,17 +325,15 @@ sections:
 
         <li>
         <a href="https://doi.org/10.1007/s13369-025-10028-w" class="text-cyan-400 hover:text-cyan-300 font-semibold">
-        Fractal electrode architectures
+        Fractal electrode architectures for optimized electric field distributions
         </a>
         </li>
-        
-        <li>Optimization of electric field distributions</li>
 
-        <li>Hybrid passive-active dust mitigation</li>
+        <li>Hybrid passive-active dust mitigation (Under development)</li>
 
-        <li>Low-power driving electronics</li>
+        <li>Low-power driving electronics (Under development)</li>
 
-        <li>Long-term outdoor reliability studies</li>
+        <li>Long-term outdoor reliability studies (Under development)</li>
 
         </ul>
 
@@ -424,9 +424,9 @@ sections:
 
         <ul class="list-disc pl-6 space-y-2 text-slate-300 mb-8">
 
-        <li>AI-assisted routing optimization</li>
+        <li>AI-assisted routing optimization (Under development)</li>
 
-        <li>Bio-inspired algorithms for multilayer PCB routing</li>
+        <li>Bio-inspired algorithms for multilayer PCB routing (Under development)</li>
 
         </ul>
 

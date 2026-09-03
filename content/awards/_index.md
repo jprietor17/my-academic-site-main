@@ -21,30 +21,34 @@ sections:
       text: |-
 
         ## Outstanding Alumni Award at International Level
-
-        **Electrical and Electronics Engineers Association (AIEEUN), National University of Colombia · 2022**
-
-        Recognized as an **Outstanding Alumni at International Level** by the Electrical and Electronics Engineers Association (AIEEUN) during the 60th Anniversary of the Department of Electrical and Electronic Engineering at the National University of Colombia. The award recognized professional and academic achievements at the international level and continued engagement with the Department and its community.
+        
         <div class="not-prose my-8">
           <img
             src="/images/awards/aieeun.jpg"
             alt="Excellence in Teaching Award"
-            class="w-full rounded-2xl object-cover shadow-lg">
+            class="w-[10px] rounded-2xl object-cover shadow-lg">
         </div>
+
+        **Electrical and Electronics Engineers Association (AIEEUN), National University of Colombia · 2022**
+
+        Recognized as an **Outstanding Alumni at International Level** by the Electrical and Electronics Engineers Association (AIEEUN) during the 60th Anniversary of the Department of Electrical and Electronic Engineering at the National University of Colombia. The award recognized professional and academic achievements at the international level and continued engagement with the Department and its community.
+        
         
         ---
 
         ## Excellence in Teaching Award
 
-        **College of Applied Engineering, KFUPM · 2020–2021**
-
-        Received the **Excellence in Teaching Award** from the College of Applied Engineering at King Fahd University of Petroleum and Minerals (KFUPM) for the 2020–2021 academic period, recognizing excellence and commitment in undergraduate engineering education.
         <div class="not-prose my-8">
           <img
             src="/images/awards/teaching.jpg"
             alt="Excellence in Teaching Award"
             class="w-full rounded-2xl object-cover shadow-lg">
         </div>
+
+        **College of Applied Engineering, KFUPM · 2020–2021**
+
+        Received the **Excellence in Teaching Award** from the College of Applied Engineering at King Fahd University of Petroleum and Minerals (KFUPM) for the 2020–2021 academic period, recognizing excellence and commitment in undergraduate engineering education.
+        
 
     design:
       columns: "1" 
@@ -57,35 +61,39 @@ sections:
 
         ## Second Place — 50K Challenge Award
 
-        **King Fahd University of Petroleum and Minerals · May 2022**
-
-        **Project:** *Fractal-Based Electrodynamic Screen*  
-        **Role:** Team Advisor
-
-        The student team received **Second Place** in the KFUPM 50K Challenge for the development of a fractal-based electrodynamic screen for dust mitigation. The project explored novel electrode geometries for improving electrodynamic particle removal, particularly for applications in photovoltaic systems operating in dusty environments.
         <div class="not-prose my-8">
           <img
             src="/images/awards/50k.jpg"
             alt="50k Award"
             class="w-full rounded-2xl object-cover shadow-lg">
         </div>
+        
+        **King Fahd University of Petroleum and Minerals · May 2022**
+
+        **Project:** *Fractal-Based Electrodynamic Screen*  
+        **Role:** Team Advisor
+
+        The student team received **Second Place** in the KFUPM 50K Challenge for the development of a fractal-based electrodynamic screen for dust mitigation. The project explored novel electrode geometries for improving electrodynamic particle removal, particularly for applications in photovoltaic systems operating in dusty environments.
+        
 
         ---
 
         ## First Prize — Hope Hackathon, Digital Health Track
 
-        **Saudi Arabia · 2020**
-
-        **Project:** *In-Ear Health Monitoring System*  
-        **Role:** Team Advisor
-
-        The student team received **First Prize in the Digital Health Track** at the Hope Hackathon for an in-ear health monitoring system. The project investigated a compact wearable platform for physiological monitoring and digital-health applications.
         <div class="not-prose my-8">
           <img
             src="/images/awards/hms.jpg"
             alt="Hope Hackathon"
             class="w-full rounded-2xl object-cover shadow-lg">
         </div>
+        
+        **Saudi Arabia · 2020**
+
+        **Project:** *In-Ear Health Monitoring System*  
+        **Role:** Team Advisor
+
+        The student team received **First Prize in the Digital Health Track** at the Hope Hackathon for an in-ear health monitoring system. The project investigated a compact wearable platform for physiological monitoring and digital-health applications.
+        
     design:
       columns: "1"
   
