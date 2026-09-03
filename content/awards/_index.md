@@ -26,7 +26,7 @@ sections:
           <img
             src="/images/awards/aieeun.jpg"
             alt="Excellence in Teaching Award"
-            class="w-[10px] rounded-2xl object-cover shadow-lg">
+            class="w-full rounded-2xl object-cover shadow-lg">
         </div>
 
         **Electrical and Electronics Engineers Association (AIEEUN), National University of Colombia · 2022**
